@@ -20,7 +20,7 @@ export default function Footer() {
           github
         </a>
         <a
-          href="www.linkedin.com/in/pragyan-tamakhu-6b9416285"
+          href="https://www.linkedin.com/in/pragyantamakhu/"
           target="_blank"
           rel="noreferrer"
           className="text-[11px] tracking-widest uppercase text-muted hover:text-accent2 transition-colors duration-200 no-underline"
